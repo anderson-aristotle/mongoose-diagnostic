@@ -1,13 +1,13 @@
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
-# Mongoose CRUD Diagnostic
+# Mongoose Diagnostic
 
 This diagnostic assesses your ability to use Mongoose to manipulate a MongoDB
  database.
 
 ## Prerequisites
 
--   [https://github.com/ga-wdi-boston/mongoose-crud](https://github.com/ga-wdi-boston/mongoose-crud)
+-   [https://git.generalassemb.ly/ga-wdi-boston/mongoose](https://git.generalassemb.ly/ga-wdi-boston/mongoose)
 
 ## Instructions
 
@@ -40,9 +40,7 @@ This includes referencing talk materials, appropriate documentation, and
 searching for help online.
 
 You should be running `grunt nag` before diagnosing any bugs, since it finds
-some of the most common sources of errors. After `grunt nag` passes, you should
-run `grunt test` to run the included tests. Tests will tell you whether of not
-your responses are correct.
+some of the most common sources of errors. 
 
 ## [License](LICENSE)
 
