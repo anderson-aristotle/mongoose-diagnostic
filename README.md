@@ -16,7 +16,7 @@ This diagnostic assesses your ability to use Mongoose to manipulate a MongoDB
 1.  Install dependencies.
 1.  Create and checkout a new branch, named `response`.
 1.  Create a new mongo database by running `mongo mongoose-crud-diagnostic`.
-1.  Follow the directions given in [diagnostic.js](diagnostic.js).
+1.  Follow the directions given in [lib/diagnostic.js](lib/diagnostic.js).
 1.  Before the alotted time is up, push to your fork and issue a pull request.
 
 Your pull request description should contain a "fist to five" for comfort and
@@ -40,7 +40,7 @@ This includes referencing talk materials, appropriate documentation, and
 searching for help online.
 
 You should be running `grunt nag` before diagnosing any bugs, since it finds
-some of the most common sources of errors. 
+some of the most common sources of errors.
 
 ## [License](LICENSE)
 
