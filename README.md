@@ -7,7 +7,7 @@ This diagnostic assesses your ability to use Mongoose to manipulate a MongoDB
 
 ## Prerequisites
 
--   [https://git.generalassemb.ly/ga-wdi-boston/mongoose](https://git.generalassemb.ly/ga-wdi-boston/mongoose)
+-   [mongoose](https://git.generalassemb.ly/ga-wdi-boston/mongoose)
 
 ## Instructions
 
@@ -16,7 +16,7 @@ This diagnostic assesses your ability to use Mongoose to manipulate a MongoDB
 1.  Install dependencies.
 1.  Create and checkout a new branch, named `response`.
 1.  Create a new mongo database by running `mongo mongoose-crud-diagnostic`.
-1.  Follow the directions given in [diagnostic.js](diagnostic.js).
+1.  Follow the directions given in [lib/diagnostic.js](lib/diagnostic.js).
 1.  Before the alotted time is up, push to your fork and issue a pull request.
 
 Your pull request description should contain a "fist to five" for comfort and
@@ -30,17 +30,17 @@ Clarity: 3
 I used Google and my class notes to help with this diagnostic.
 ```
 
-You may wish to refer to ["How do I submit diagnostics?"](https://github.com/ga-wdi-boston/meta/wiki/Diagnostics)
-and other [FAQs](https://github.com/ga-wdi-boston/meta/wiki/) related to
-[forking, cloning](https://github.com/ga-wdi-boston/meta/wiki/ForkAndClone),
-and [pull requests](https://github.com/ga-wdi-boston/meta/wiki/PullRequest).
+You may wish to refer to ["How do I submit diagnostics?"](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/Diagnostics)
+and other [FAQs](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/) related to
+[forking, cloning](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/ForkAndClone),
+and [pull requests](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/PullRequest).
 
 You may use **any resource** other than each other to complete this diagnostic.
 This includes referencing talk materials, appropriate documentation, and
 searching for help online.
 
 You should be running `grunt nag` before diagnosing any bugs, since it finds
-some of the most common sources of errors. 
+some of the most common sources of errors.
 
 ## [License](LICENSE)
 
