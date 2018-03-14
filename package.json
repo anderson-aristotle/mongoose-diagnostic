@@ -13,6 +13,7 @@
     "mongoose": "^4.11.5"
   },
   "devDependencies": {
+    "add-code-block": "0.0.9",
     "chai": "^3.5.0",
     "chai-as-promised": "^6.0.0",
     "eslint": "^3.19.0",
